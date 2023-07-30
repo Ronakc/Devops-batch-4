@@ -1,0 +1,5 @@
+git add
+git log 
+git fff
+git hhh
+git class
