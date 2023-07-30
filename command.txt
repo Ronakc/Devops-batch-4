@@ -5,3 +5,7 @@ git gwad
 git class
 git add
 
+git commit
+git log
+git log --oneline
+
