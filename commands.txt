@@ -13,4 +13,7 @@ git pull
 git push
 get fetch
 ronak
+chitlangia
+vinit
+lalit
 
