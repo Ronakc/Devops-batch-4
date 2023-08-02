@@ -1,0 +1,12 @@
+this is line 1
+<<<<<<< HEAD
+
+this line 2
+
+this is line 3
+
+
+this is line 4
+
+=======
+>>>>>>> parent of 69b54c3 (line 2)
