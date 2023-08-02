@@ -1,9 +1,0 @@
-hi this is ok
-
-<<<<<<< HEAD
-this is gaadbaadd code logic wron
-
-
-this is right codeg
-=======
->>>>>>> parent of 311aee9 (new logic added)
